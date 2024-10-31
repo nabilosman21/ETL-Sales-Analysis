@@ -10,8 +10,7 @@ This project involves an in-depth analysis of retail orders, focusing on sales p
 - [Data Processing](#data-processing)
 - [SQL Queries](#sql-queries)
 - [Results](#results)
-- [Contributing](#contributing)
-- [License](#license)
+
 
 ## Technologies Used
 - **Python**: For data manipulation and analysis
