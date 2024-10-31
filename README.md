@@ -77,18 +77,10 @@ The data processing steps include:
    
 
 ## SQL Queries
+Please go the orders_anaylsis.sql file within the folder to the see the queries 
 
-### 1. Top 10 Highest Revenue Generating Products
-```sql
-SELECT product_id, SUM(sale_price) AS sales
-FROM orders_db
-GROUP BY product_id
-ORDER BY sales DESC
-LIMIT 10;
 
-Please go the file to the see the remaining queries
-
-Results
+## Results
 The results of the analysis provide valuable insights into sales performance, product popularity, and growth trends within the retail sector. Key findings include:
 
 - The highest revenue-generating products and their respective sales figures.
